@@ -51,6 +51,4 @@ class Takeaway
 	      :to => TwilioCredentials::TO_NUMBER,
 	      :body => message)
 	  end
-
-
 end
